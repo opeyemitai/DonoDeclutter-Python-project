@@ -11,4 +11,8 @@ To Create DonoDeclutter platform to transform how we sell, buy, and donate items
 
 In this project primary data was gotten from 115 respondents. • Data cleaning was used to clean the datasets to check for any errors or inconsistencies in the data and also	ensured that responses are coded consistently and accurately.
 
+## Tool used
+
+Python jupiter notebook
+
 
