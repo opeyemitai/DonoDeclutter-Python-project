@@ -47,19 +47,19 @@ These preferences indicate a desire for a platform that offers convenience, safe
 
 In conclusion, the analysis revealed significant insights that underscore the importance and potential impact of developing a decluttering application.
 
-Demographic Insights: The majority of respondents, particularly women aged 25-34, are actively engaged in decluttering activities, with varying frequencies and motivations.
+1. Demographic Insights: The majority of respondents, particularly women aged 25-34, are actively engaged in decluttering activities, with varying frequencies and motivations.
 
-Regional Preferences: Locations such as Lagos and Anambra show a notable interest in decluttering, with specific age groups and frequency patterns(particularly women, fell within the age range of 25-34).
+2. Regional Preferences: Locations such as Lagos and Anambra show a notable interest in decluttering, with specific age groups and frequency patterns(particularly women, fell within the age range of 25-34).
 
-Disposal Methods and Challenges: There's a diverse range of disposal methods used by respondents, with a significant number expressing challenges in finding buyers or managing pricing.
+3. Disposal Methods and Challenges: There's a diverse range of disposal methods used by respondents, with a significant number expressing challenges in finding buyers or managing pricing.
 
-Awareness of Second-hand Platforms: A considerable proportion of respondents currently lack a platform for decluttering, indicating a significant market gap that our application could fill.
+4. Awareness of Second-hand Platforms: A considerable proportion of respondents currently lack a platform for decluttering, indicating a significant market gap that our application could fill.
 
-Reasons for Decluttering: Respondents declutter for various reasons, including seasonal cleaning, the need for more space, and preparation for moving or migration.
+5. Reasons for Decluttering: Respondents declutter for various reasons, including seasonal cleaning, the need for more space, and preparation for moving or migration.
 
-Impact of Moving or Migration: The process of moving or migrating often prompts individuals to declutter, with preferences for selling items for extra funds or donating to make a positive impact.
+6. Impact of Moving or Migration: The process of moving or migrating often prompts individuals to declutter, with preferences for selling items for extra funds or donating to make a positive impact.
 
-Feature Preferences: A majority of participants expressed preferences for features such as ease of listing items, security measures, wide audience reach, user-friendly interface, transparent pricing, and reliable customer support.
+7. Feature Preferences: A majority of participants expressed preferences for features such as ease of listing items, security measures, wide audience reach, user-friendly interface, transparent pricing, and reliable customer support.
 
 These findings collectively highlight the opportunity and demand for a decluttering application that addresses the diverse needs and preferences of users. By incorporating these insights into the development process, we can create a robust platform that not only simplifies the decluttering process but also fosters a positive user experience and promotes sustainable practices.
 
