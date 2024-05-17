@@ -45,7 +45,7 @@ These preferences indicate a desire for a platform that offers convenience, safe
 
 ## CONCLUSION
 
-In conclusion, our analysis has revealed significant insights that underscore the importance and potential impact of developing a decluttering application.
+In conclusion, the analysis revealed significant insights that underscore the importance and potential impact of developing a decluttering application.
 
 Demographic Insights: The majority of respondents, particularly women aged 25-34, are actively engaged in decluttering activities, with varying frequencies and motivations.
 
